@@ -11,4 +11,4 @@ In our lab, we study the learning mechanisms underlying changes in mental health
 | [brain_states](https://github.com/goldwaylab/brain_states) | Code for *Brain State Dynamics in Ketamine-Induced Dissociation Resemble Those in Posttraumatic Stress Disorder* (*Biological Psychiatry Global Open Science*, 2026; [DOI](https://doi.org/10.1016/j.bpsgos.2025.100655), [OSF](https://osf.io/46zfm/)) |
 | [dev_trt](https://github.com/goldwaylab/dev_trt) | Tasks, analysis code, models and data for a test–retest reliability study of a reinforcement-learning task battery (RISK, PIT, two-step) |
 
-Each repository links to its paper or OSF project, states its license, and can be cited.
+Each repository links to its paper or OSF project and can be cited.
