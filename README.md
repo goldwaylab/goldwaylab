@@ -1,6 +1,6 @@
 # Goldway Lab
 
-In our lab, we study the learning mechanisms underlying changes in mental health, based at the Department of Neuroimaging, King's College London. Our research focus is understanding the shifts in learning observed under two conditions that diverge from typical adult cognition: development and the influence of psychedelics. In both cases, neural plasticity is increased, reward circuitry shows functional modifications, and learning is more flexible.
+In our lab, we study the learning mechanisms underlying changes in mental health. Our research focus is understanding the shifts in learning observed under two conditions that diverge from typical adult cognition: development and the influence of psychedelics. In both cases, neural plasticity is increased, reward circuitry shows functional modifications, and learning is more flexible.
 
 ## Selected work
 
