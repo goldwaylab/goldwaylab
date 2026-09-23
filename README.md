@@ -1,6 +1,6 @@
-# Noam Goldway
+# Goldway Lab
 
-I study how people learn and make decisions, and how pain, dissociation and development shape them, using behavioral experiments, computational modeling and neuroimaging.
+In our lab, we study how people learn and make decisions, and how pain, dissociation and development shape them, using behavioral experiments, computational modeling and neuroimaging.
 
 ## Selected work
 
